@@ -3,7 +3,7 @@
 import { CheckCircle2 } from "lucide-react";
 import PageBanner from "@/components/PageBanner";
 import SectionWrapper, { SectionTitle } from "@/components/SectionWrapper";
-import aboutImgObj from "@/assets/about-us/Textile office.png";
+import aboutImgObj from "@/assets/about-us/Textile office.jpeg";
 const aboutImg = aboutImgObj.src;
 import yonthinCertObj from "@/assets/company-data/yonthin-dealership-certificate.jpeg";
 const yonthinCert = yonthinCertObj.src;

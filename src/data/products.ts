@@ -2,7 +2,7 @@ import compressorImgObj from "@/assets/product-compressor.png";
 import knittingImgObj from "@/assets/product-knitting.png";
 import embroideryImgObj from "@/assets/product-embroidery.png";
 import chenilleImgObj from "@/assets/product-chenille.png";
-import generatorImgObj from "@/assets/generators/cummins/cummins-c55d5/cummins-c55d5-1.jpg";
+import generatorImgObj from "@/assets/generators/cummins/cummins-c55d5/generators.jpg";
 import perkinsDieselImgObj from "@/assets/generators/perkins/perkins-diesel-generator/perkins-diesel-generator-1.jpg";
 import perkinsNaturalGasImgObj from "@/assets/generators/perkins/perkins-natural-gas-generator/perkins-natural-gas-generator-1.png";
 import fmwTbg30_50ImgObj from "@/assets/generators/fmw-tbg/fmw-tbg-30kw-50kw/fmw-tbg-30kw-50kw-1.png";

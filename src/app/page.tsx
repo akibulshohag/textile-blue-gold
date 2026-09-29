@@ -3,7 +3,7 @@
 import { useEffect, useState } from "react";
 import Link from "next/link";
 import { ArrowRight, Award, ChevronLeft, ChevronRight, Globe, Headphones, Truck } from "lucide-react";
-import aboutImgObj from "@/assets/about-us/Textile office.png";
+import aboutImgObj from "@/assets/about-us/Textile office.jpeg";
 const aboutImg = aboutImgObj.src;
 import SectionWrapper, { SectionTitle } from "@/components/SectionWrapper";
 import ProductSearch from "@/components/ProductSearch";
